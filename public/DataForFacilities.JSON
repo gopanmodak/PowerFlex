@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image":"https://www.svgrepo.com/show/397213/man-lifting-weights-medium-dark-skin-tone.svg",
+    "title": "Modern Training Equipment",
+    "body": "State of the-art strength and cardio machines to support every workout from beginners to advanced athletes."
+  },
+  {
+    "id": 2,
+    "image":"https://www.svgrepo.com/show/493385/gym-instructor-male.svg",
+    "title": "Certified & Experienced Trainers",
+    "body": " Our professional trainers guide you with proper techniques, personalized plans, and constant motivation."
+  },
+  {
+    "id": 3,
+    "image":"https://www.svgrepo.com/show/397213/man-lifting-weights-medium-dark-skin-tone.svg",
+    "title": "Strength & Free Weight Area",
+    "body": " Fully equipped free-weight zone with dumbbells, barbells, squat racks, and benches for serious strength training"
+  },
+  {
+    "id": 4,
+    "image":"https://www.svgrepo.com/show/492693/medical-examination-male.svg",
+    "title": "Personal Training Support",
+    "body": " One-on-one coaching tailored to your goals—fat loss, muscle gain, or overall fitness.."
+  },
+  {
+    "id": 5,
+    "image":"https://www.svgrepo.com/show/200207/bench-gym.svg",
+    "title": "Clean Locker Rooms & Showers",
+    "body": " Separate, hygienic changing rooms with secure lockers and fresh facilities for your comfort."
+  },
+  {
+    "id": 6,
+    "image":"https://www.svgrepo.com/show/252077/nutrition-breakfast.svg",
+    "title": "Nutrition & Fitness Guidance",
+    "body": " Basic nutrition advice and fitness support to help you maintain a healthy lifestyle beyond the gym."
+  },
+  {
+    "id": 7,
+    "image":"https://www.svgrepo.com/show/297064/home-house.svg",
+    "title": "Air-Conditioned & Ventilated Space",
+    "body": " A clean, cool, and well-ventilated environment that keeps you focused and energized during workouts."
+  },
+  {
+    "id": 8,
+    "image":"https://www.svgrepo.com/show/513548/lock.svg",
+    "title": "Safe & Secure Environment",
+    "body": " CCTV surveillance and locker security to ensure a safe training experience for all members."
+  }
+]
