@@ -1,16 +1,120 @@
-# React + Vite
+# 🏋️ PowerFlex Gym Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![PowerFlex Gym](https://img.shields.io/badge/PowerFlex-Gym-purple)
+![React](https://img.shields.io/badge/React-18-blue)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.x-teal)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
-Currently, two official plugins are available:
+PowerFlex Gym is a modern, responsive fitness website built with **React.js** and **Tailwind CSS**.  
+It focuses on clean UI, strong call-to-action, and direct customer engagement via **WhatsApp**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌟 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🏠 Modern Home / Hero Section
+- 💪 Trainers Section (Dynamic JSON Data)
+- 📦 Gym Membership Packages
+- 📞 Call To Action → Direct WhatsApp Chat
+- 📱 Fully Responsive (Mobile-First)
+- 🎨 Tailwind CSS Styling
+- ⚡ Fast & Lightweight React App
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|-----------|-------|
+| React.js | Frontend Framework |
+| Tailwind CSS | Styling |
+| React Router DOM | Page Routing |
+| React Icons | Icons |
+| WhatsApp API | Customer Contact |
+
+---
+
+## 📂 Project Structure
+
+
+PowerFlex-Gym/
+│
+├── DataForFacilities.JSON
+├── vite.svg
+│
+├── src/
+│   ├── assets/
+│   │   ├── Images/
+│   │   └── icons/
+│   │
+│   ├── Components/
+│   │   ├── AboutUs/
+│   │   ├── Banner/
+│   │   ├── Facilities/
+│   │   ├── FooterBar/
+│   │   ├── Home/
+│   │   ├── ImageSlider/
+│   │   ├── Navbar/
+│   │   ├── Packages/
+│   │   └── Trainers/
+│   │
+│   ├── Pages/
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   ├── main.jsx
+│   └── Router.jsx
+│
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
+
+
+### 📁 Components
+Reusable UI components such as Banner, Navbar, Trainers, Packages, and Facilities.
+
+### 📁 Pages
+Route-based pages managed via React Router.
+
+### 📁 assets
+Contains images, icons, and static resources.
+
+### 📄 Router.jsx
+Handles application routing using React Router DOM.
+
+### 📄 DataForFacilities.JSON
+Static data source for gym facilities section.
+
+
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/powerflex-gym.git
+
+cd powerflex-gym
+
+npm install
+
+npm run dev
+
+
+
+---
+
+## ✅ 3️⃣ Environment & Requirements
+
+```md
+## ⚙️ Requirements
+
+- Node.js v18+
+- npm or yarn
+- Modern web browser (Chrome, Edge, Firefox)
